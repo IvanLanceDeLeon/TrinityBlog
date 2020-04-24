@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://jovial-tesla-d0e64e.netlify.app"
 title = "Trinity's Museum of Awesomeness"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
